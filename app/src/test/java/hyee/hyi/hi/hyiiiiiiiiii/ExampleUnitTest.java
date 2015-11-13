@@ -1,4 +1,4 @@
-package hyee.hyi.hi.hyiiiiiiiiii;
+package hyee.hyi.hi.hyii;
 
 import org.junit.Test;
 

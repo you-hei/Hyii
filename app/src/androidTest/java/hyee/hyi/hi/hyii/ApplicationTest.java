@@ -1,4 +1,4 @@
-package hyee.hyi.hi.hyiiiiiiiiii;
+package hyee.hyi.hi.hyii;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
